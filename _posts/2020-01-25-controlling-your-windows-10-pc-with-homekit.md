@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Controlling your Windows 10 PC with HomeKit
-categories: [homekit, domotics]
+categories: [home, automation]
 ---
 
-Lately I've been going into a home automation spree, trying to automate my house as much as possible to avoid wasting time on repetitive stuff. While I am trying to not take it to [the extreme](https://github.com/NARKOZ/hacker-scripts)], there's actually a lot of nifty stuff you can either buy or quickly "hack" with a Raspberry Pi to make your life much easier.
+Lately I've been going into a home automation spree, trying to automate my house as much as possible to avoid wasting time on repetitive stuff. While I am trying to not take it to [the extreme](https://github.com/NARKOZ/hacker-scripts), there's actually a lot of nifty stuff you can either buy or quickly "hack" with a Raspberry Pi to make your life much easier.
 
 While I started by getting a cheap Echo Dot and running everything with Alexa, I quickly felt the system to be quite limited and messy - just like many other Amazon apps, the Alexa app has a very weird UI that seems to not have the main focus on home automation. Also, the routines you can build in there are quite limited. So I decided to look for alternatives:
 
