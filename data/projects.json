@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+        "name": "easyglue",
+        "url": "https://github.com/albertquiroga/easyglue",
+        "desc": "Spark-like syntax and other enhancements for AWS Glue jobs"
+        },
+        {
+        "name": "stm",
+        "url": "https://github.com/albertquiroga/stm",
+        "desc": "Simple CLI utility written in Go to send telegram messages"
+        },
+        {
+        "name": "glue-faker",
+        "url": "https://github.com/albertquiroga/glue-faker",
+        "desc": "Custom connector for AWS Glue, designed to generate sample datasets"
+        }
+    ]
+}
