@@ -1,4 +1,5 @@
-name: github pages
+# Originally from https://gohugo.io/hosting-and-deployment/hosting-on-github/
+name: GitHub Pages
 
 on:
   push:
